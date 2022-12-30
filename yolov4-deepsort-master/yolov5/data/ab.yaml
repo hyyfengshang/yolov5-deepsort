@@ -1,0 +1,6 @@
+path: ../datasets/VOCdatasets
+train: ImageSets/Main/train.txt
+val: ImageSets/Main/val.txt
+
+nc: 1
+names: ['1']
